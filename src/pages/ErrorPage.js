@@ -3,13 +3,14 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { Footer, Navbar, Sidebar } from "../components";
 const ErrorPage = () => {
-  return;
-  <>
-    <Navbar />
-    <Sidebar />
-    <h4>error page</h4>;
-    <Footer />
-  </>;
+  return (
+    <>
+      <Navbar />
+      <Sidebar />
+      <h4>error page</h4>
+      <Footer />
+    </>
+  );
 };
 
 const Wrapper = styled.main`
