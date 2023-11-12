@@ -1,17 +1,8 @@
-import React, { useEffect } from "react";
+import React from "react";
 import styled from "styled-components";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { Footer, Navbar, Sidebar } from "../components";
-
 const ErrorPage = () => {
-  const navigate = useNavigate();
-
-  // Use useEffect to automatically redirect after 100ms
-
-  const redirectTimeout = setTimeout(() => {
-    navigate("/");
-  }, 50);
-
   return (
     <>
       <Navbar />
@@ -20,7 +11,6 @@ const ErrorPage = () => {
         <section>
           <h1>404</h1>
           <h3>Sorry, the page you tried cannot be found</h3>
-          {/* You can still use a Link or a button for manual redirection */}
           <Link className="btn" to="/">
             Back Home
           </Link>
