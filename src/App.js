@@ -4,7 +4,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import {
   RootLayout,
   AboutPage,
-  PrivateRoute,
   CartPage,
   CheckoutPage,
   ErrorPage,
