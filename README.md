@@ -1,6 +1,7 @@
 # React E-Commerce Practice Project
 
-![Project Screenshot](/src/assets/s1.png)
+![Project Screenshot](./src/assets/s1.png)
+
 
 This project is a React-based E-commerce web application created as a practice project. It is hosted on GitHub Pages, and you can check it out live [here](https://bharat-bhandari.github.io/React-Ecommerce-Web/).
 
