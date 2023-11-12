@@ -1,9 +1,7 @@
 # React E-Commerce Practice Project
 
-![Project Screenshot](./src/assets/s1.png)
 
-
-This project is a React-based E-commerce web application created as a practice project. It is hosted on GitHub Pages, and you can check it out live [here](https://bharat-bhandari.github.io/React-Ecommerce-Web/).
+This project is a React-based E-commerce web application created as a practice project. It is hosted on GitHub Pages, and you can check it out live [here](https://brokebros-react-ecommerce.vercel.app/).
 
 ## Overview
 
@@ -22,30 +20,29 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/bharat-bhandari/React-Ecommerce-Web.git
-    ```
+   ```bash
+   git clone https://github.com/bharat-bhandari/React-Ecommerce-Web.git
+   ```
 
 2. **Navigate to the project directory:**
 
-    ```bash
-    cd React-Ecommerce-Web
-    ```
+   ```bash
+   cd React-Ecommerce-Web
+   ```
 
 3. **Install dependencies:**
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 4. **Run the development server:**
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
-    The application will be accessible at [http://localhost:3000](http://localhost:3000).
-
+   The application will be accessible at http://localhost:3000
 
    ## Technologies Used
 
@@ -59,5 +56,8 @@ To run this project locally, follow these steps:
 - **Tutorial:** React 18 Tutorial and Projects Course (2023) by John Smilga
 - **Instructor:** John Smilga
 
+## View the projects
+
+- [https://brokebros-react-ecommerce.vercel.app/](https://brokebros-react-ecommerce.vercel.app/).
 
 Happy coding! 🚀
